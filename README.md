@@ -9,11 +9,6 @@
     src="https://raw.githubusercontent.com/rp1s/rp1s/main/profile-summary-card-output/transparent/2-most-commit-language.svg"
     alt="Languages by commits"
   >
-  <img
-    width="320"
-    src="https://raw.githubusercontent.com/rp1s/rp1s/main/profile-summary-card-output/transparent/4-productive-time.svg"
-    alt="GitHub stats"
-  >
 </p>
 
 <p align="center">

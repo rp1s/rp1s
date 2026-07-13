@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> - Все проекты приостановлены до завершения работы над Candy, так как во всех остальных проектах он играет очень важную роль.
+> - All projects have been put on hold until the work on Candy is completed, as it plays a crucial role in all the other projects.
 
 <!--
 Просто блоки для использования в будущем
